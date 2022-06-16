@@ -1,0 +1,1 @@
+I wanted to build a calculator because I always see them in everyone's github repositories. Also, it just looks fun. It's a basic calculator built with vanilla JavaScript. The styling is inspired by the hit show "Ru Paul's Drag Race."
